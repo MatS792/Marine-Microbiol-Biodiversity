@@ -15,7 +15,7 @@ Introductory class in the Marine Microbial Biodiversity for graduate students pu
 
 In the repository you may find different versions of the class relative to each academic year. I always try to improve the class material year on year, so I suggest if interested to use the latest available year.
 
-<img src="https://github.com/dgiovannelli/unina_microextremeenv/blob/main/extrememicro_cover.png" width="80%">
+<img src="https://github.com/MatS792/Marine-Microbiol-Biodiversity/blob/main/MMB_Cover.png" width="80%">
 
 ### DISCLAIMER
 
